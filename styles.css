@@ -1,0 +1,176 @@
+body.principale{
+	background-image: url(image/img.png);
+	background-repeat: no-repeat;
+	background-size: 85%;
+	position: relative;
+    padding-left: 100pxx;
+    left: 10px;
+}
+nav.menu-nav ul li.btn a{
+	color: white;
+	background-color: red;
+	border-color: darkblue;
+	text-decoration: none;
+	font-size: 35px;
+	padding: 50px;
+	padding-block: 30px;
+	margin: 50px;
+	position: relative;
+	left: 350px;
+	top: 400px;
+
+}
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: red;
+	background-color: white;
+	text-decoration: none;
+	transition: 0.4s all;
+	border-color: black;
+}
+h2.titre{
+	color: black;
+	padding-block: 30px;
+	font-size: 40px;
+	position: relative;
+	left: 760px;
+	top:300px;
+}
+ h1.Grit{
+ 	color: red;
+ 	position: relative;
+ 	left: 800px;
+ 	top: 60px;
+ }
+ h2.petit{
+ 	color: orange;
+ 	position: relative;
+    left: 30px;
+ 	top: 50px;
+
+ }
+ h2.enonce1{
+ 	color: blue;
+ 	position: relative;
+    left: 5px;
+ 	top: 50px;
+ 	line-height: 30px;
+
+ }
+ h2.petit2{
+ 	color: orange;
+ 	position: relative;
+    left: 30px;
+ 	top: 50px;
+
+ }
+ h2.enonce2{
+ 	color: blue;
+ 	position: relative;
+    left: 5px;
+ 	top: 50px;
+ 	line-height: 30px;
+
+ }
+ h2.petit3{
+ 	color: orange;
+ 	position: relative;
+    left: 30px;
+ 	top: 50px;
+ }
+ h2.enonce3{
+ 	color: blue;
+ 	position: relative;
+    left: 5px;
+ 	top: 50px;
+ 	line-height: 30px;
+ }
+ body.inc{
+ background-color: #ffeaa7;
+}
+iframe.vid1{
+	position: relative;
+	left: 600px;
+	top: 100px;
+}
+h1.titre1{
+	color: red;
+	position: relative;
+	left: 69px;
+	top: 50px;
+}
+h2.texte1{
+	color: blue;
+	position: relative;
+	top: 50px;
+	line-height: 35px;
+}
+h1.titre2{
+	color: red;
+	position: relative;
+	left: 69px;
+	top: 50px;
+
+}
+h2.texte2{
+	color: blue;
+	position: relative;
+	top: 50px;
+	line-height: 35px;
+}
+body.definition{
+	background-color: #ffeaa7;
+}
+h1.princip{
+	position: relative;
+	left: 700px;
+	top: 30px;
+	color: red;
+}
+h1.title1{
+	color: orange;
+	position: relative;
+	left: 30px;
+	top: 25px;
+
+}
+h2.text1{
+	color: blue;
+	position: relative;
+	top: 25px;
+}
+h1.title2{
+	color: orange;
+	position: relative;
+	left: 30px;
+	top: 25px;
+
+}
+h2.text2{
+	color: blue;
+	position: relative;
+	top: 25px;
+}
+h1.title3{
+	color: orange;
+	position: relative;
+	left: 30px;
+	top: 25px;
+}
+h2.text3{
+	color: blue;
+	position: relative;
+	top: 25px;
+}
+body.av{
+	background-color: #ffeaa7;
+}
+img{
+	position: relative;
+	left: 700px;
+}
